@@ -75,7 +75,9 @@ def employee():
             print("\nHello Richie, items you would like to add...")
 
             add_item = input("Please enter food you would like to add: ")
-            
+            addition = menu['foods'].append(add_item)
+            print(f"You have added {add_item} to {menu['foods']}")
+
             break
             #add ability to add to list 
         if employee_r != employee_username and employee_pass != employee_password:
