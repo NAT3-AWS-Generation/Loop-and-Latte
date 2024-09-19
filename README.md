@@ -1,3 +1,3 @@
 # Loop-and-Latte
 
-By Takwa, Milla, Maram, Dwayne and Richie.
+By Takwa, Milla, Maram, and Richie.
